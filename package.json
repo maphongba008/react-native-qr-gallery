@@ -1,6 +1,6 @@
 {
   "name": "react-native-qr-gallery",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Library to select an image from image gallery and read QR code from it",
   "main": "index.js",
   "scripts": {
@@ -9,9 +9,13 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
+  "author": "maphongba008",
   "license": "",
   "peerDependencies": {
     "react-native": "^0.41.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maphongba008/react-native-qr-gallery.git"
   }
 }
