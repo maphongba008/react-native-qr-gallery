@@ -1,6 +1,9 @@
 
 # react-native-qr-gallery
 
+Library to select an image from image gallery and read QR code from it
+
+
 ## Getting started
 
 `$ npm install react-native-qr-gallery --save`
